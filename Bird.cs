@@ -63,7 +63,7 @@ namespace birdTest
         public  void fly(World world)
         {
             if (!(world.windSpeed > this.maxSpeed) || noMaxWindSpeed) //check for min temp and for max wind speed, if there is no MaxWindspeed, always add distance.
-                this.totalDistance += this.flyDistance; //add on to hop distance for each world.
+                this.totalDistance += this.flyDistance; //add on to fly distance for each world.
         }
 
 
