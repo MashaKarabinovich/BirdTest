@@ -2,9 +2,9 @@
 
 Hi there! 
 
---
+
 This is a repository for a Bird Problem Test that I worked on. The focus is primary using c# and lists to answer a few questions. I am going to keep it brief for now for security reasons. 
---
+
 
 If you have made it here to evauluate, then you are probably wondering how to open it. 
 
